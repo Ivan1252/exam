@@ -12,3 +12,5 @@ mysql_password: "password"
 http_host: "your_domain"
 http_conf: "your_domain.conf"
 http_port: "80"
+
+ansible_sudo_pass: "1111"
