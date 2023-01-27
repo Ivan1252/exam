@@ -10,4 +10,4 @@ mysql_password: "password"
 
 
 
-ansible_sudo_pass: "1111"
+
